@@ -7,8 +7,6 @@ tetoY = 468
 pisoX = 0
 pisoY = 0
 
-
-
 if (x<=tetoX and x >=pisoX and y<=tetoY and y >=pisoY):
     print('dentro')
 
